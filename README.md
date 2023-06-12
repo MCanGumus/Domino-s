@@ -2,6 +2,12 @@
 
 Oyunun APK Dosyası : https://drive.google.com/file/d/1mdSIWpEMyG91vN0cpDrUmZv2qDJpieGa/view?usp=sharing
 
+  Unity Kurulum: Kaynak dosyasında Library klasörünün içerisindeki dosyaların boyutu yüksek olduğu için GitHub 
+reposuna push konusunda sıkıntılar meydana geldi. Library klasörünü aşağıdaki bağlantıdan indirip direkt olarak 
+dosya içerisine atarsanız sıkıntı çözülecektir.
+
+Library dosyası linki: https://drive.google.com/file/d/1vw8PMZi3f25UKElJDwq2geLeKrSXVXKg/view?usp=sharing
+
 Oyun Kartı:
 
 ![resim](https://github.com/MCanGumus/Domino-s/assets/65230126/ef301861-1e2a-4309-963a-7182b679433a)
